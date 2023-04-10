@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Simplex Noise",
+	"Description": "SimplexNoise Blueprint Library to use in Unreal Engine",
+	"Category": "Other",
+	"CreatedBy": "DevDad",
+	"CreatedByURL": "https://github.com/devdad/SimplexNoise",
+	"DocsURL": "https://github.com/devdad/SimplexNoise",
+	"MarketplaceURL": "https://github.com/devdad/SimplexNoise",
+	"SupportURL": "",
+	"EngineVersion": "5.1",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "SimplexNoise",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		},
+	]
+}
